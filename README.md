@@ -18,7 +18,7 @@ The data can be obtained in this link:
 
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip )
 
-You can find information about the variables, data and transformations in the "CodeBook.md" file included in this repo.
+You can find extra information about the variables, data and transformations in the "CodeBook.md" file included in this repo.
 
 The included script "run_analysis.R" automatically performs the whole process for obtain a tidy data set as explained below:
 

@@ -5,7 +5,7 @@
 ##            - processing and clean data in 5 steps indicated in source code.
 ##            - finally export an independent tidy set (step 5)
 ## 
-##
+##   
 ## Parameters: -  'directory': path in local machine.(workspace)  
 ##               
 ##             - 'file': url+file for zip data file.

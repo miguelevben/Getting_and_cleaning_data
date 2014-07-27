@@ -112,14 +112,3 @@ The script contain an unique function "run_analysis(directory,file)".
 - 5.d.- Finally export the new dataframe obtained in 5.c. to a txt file "second_tidy_data.txt".
 
  
-=======
-=======
->>>>>>> 7d967f1053297f2886cdfa0bcb814117a87e261f
-Getting_and_cleaning_data
-=========================
-
-Project for collect and clean a data set for John Hopkins "Getting and Cleaning data" course.
-<<<<<<< HEAD
->>>>>>> 7d967f1053297f2886cdfa0bcb814117a87e261f
-=======
->>>>>>> 7d967f1053297f2886cdfa0bcb814117a87e261f

@@ -1,6 +1,5 @@
 ##  Getting and cleaning data Project   
 
-
 Project for collect and clean a data set for John Hopkins-Coursera "Getting and Cleaning data" course (Data Sciences specialization)
 
  **ABSTRACT**  

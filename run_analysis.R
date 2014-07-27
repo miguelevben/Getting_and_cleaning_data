@@ -1,6 +1,6 @@
 ######################################################################################
 ## Function..: run_analysis  
-## Action    :  Script for collect, processing and clean a data set. 
+## Action    :Script for collect, processing and clean a data set. 
 ##            - download and unzip file
 ##            - processing and clean data in 5 steps indicated in source code.
 ##            - finally export an independent tidy set (step 5)
